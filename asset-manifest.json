@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c93646b.css",
+    "main.js": "/static/js/main.cc8ba77a.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/mikky.jpeg": "/static/media/mikky.40ea83958617ba04fd2f.jpeg",
+    "static/media/Migra-Extralight.ttf": "/static/media/Migra-Extralight.dbd60d54988bdfdee09f.ttf",
+    "index.html": "/index.html",
+    "main.3c93646b.css.map": "/static/css/main.3c93646b.css.map",
+    "main.cc8ba77a.js.map": "/static/js/main.cc8ba77a.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c93646b.css",
+    "static/js/main.cc8ba77a.js"
+  ]
+}
